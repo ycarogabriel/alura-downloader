@@ -9,10 +9,10 @@
 
 Você pode baixar o Alura Video Downloader clonando o repositório
 
-    $ git clone https://github.com/SirSavio/alura-downloader.git
+    $ git clone [https://github.com/ycarogabriel/alura-downloader.git]
 
 # Usar
-Antes de seguir o processo abaixo edite o config.json para as suas informações e cursos desejados
+Antes de seguir o processo abaixo edite o config.json para as suas informações e cursos desejados. Os cursos devem ser iniciados na plataforma antes de tentar baixar.
 
     $ npm install
     $ node index.js
